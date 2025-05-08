@@ -18,7 +18,7 @@ This project is a complete backend system for **user registration**, **login**, 
 - Spring Data JPA
 - JavaMailSender
 - JWT (JSON Web Tokens)
-- H2 (in-memory) or MySQL (for production)
+- PostgreSQL
 - Maven
 
 ---
